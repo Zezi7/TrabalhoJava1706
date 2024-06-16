@@ -135,7 +135,7 @@ class Escola {
                 return disciplina;
             }
         }
-        return null; // Retorna null se não encontrar a disciplina
+        return null; // se n achar a disciplina ele retorna nulo 
     }
 
     public void excluirDisciplina(String codigo) {
